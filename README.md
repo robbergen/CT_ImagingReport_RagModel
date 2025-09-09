@@ -18,7 +18,7 @@
 - Compares the dictionary with manually labeled data found in labels.ods and reports accuracy
 
 ## TODO:
-- Move all pre-processing and filtering of text from rag_mistral.py to ocr.py or vice versa
+- Move all pre-processing and filtering of text from rag_mistral.py to ocr.py or vice versa (right now it's scattered everywhere)
 - Implement more metrics for evaluation (precision, recall, etc)
 - Manually label more docs (currently at 30)
 - Include optional user input for input directories
