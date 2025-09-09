@@ -21,4 +21,5 @@
 - Move all pre-processing and filtering of text from rag_mistral.py to ocr.py or vice versa
 - Implement more metrics for evaluation (precision, recall, etc)
 - Manually label more docs (currently at 30)
+- Include optional user input for input directories
 - Currently, finding nodules and determining their size runs on two separate queries, we should reuse the chunks from the first query to improve accuracy
