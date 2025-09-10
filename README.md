@@ -22,4 +22,5 @@
 - Implement more metrics for evaluation (precision, recall, etc)
 - Manually label more docs (currently at 30)
 - Include optional user input for input directories
+- Try updating to a medical RAG (https://github.com/AquibPy/Medical-RAG-LLM)
 - Currently, finding nodules and determining their size runs on two separate queries, we should reuse the chunks from the first query to improve accuracy
